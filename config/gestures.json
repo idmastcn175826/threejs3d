@@ -1,0 +1,113 @@
+{
+    "gesture_mappings": [
+        {
+            "gesture": "one_finger",
+            "display_name": "单指",
+            "action_type": "keyboard",
+            "action": "space",
+            "cooldown_ms": 500,
+            "description": "播放/暂停"
+        },
+        {
+            "gesture": "two_fingers",
+            "display_name": "双指",
+            "action_type": "keyboard",
+            "action": "media_prev",
+            "cooldown_ms": 500,
+            "description": "上一首"
+        },
+        {
+            "gesture": "three_fingers",
+            "display_name": "三指",
+            "action_type": "keyboard",
+            "action": "media_next",
+            "cooldown_ms": 500,
+            "description": "下一首"
+        },
+        {
+            "gesture": "four_fingers",
+            "display_name": "四指",
+            "action_type": "keyboard",
+            "action": "ctrl+tab",
+            "cooldown_ms": 500,
+            "description": "切换标签页"
+        },
+        {
+            "gesture": "five_fingers",
+            "display_name": "五指张开",
+            "action_type": "keyboard",
+            "action": "alt+tab",
+            "cooldown_ms": 700,
+            "description": "切换应用"
+        },
+        {
+            "gesture": "fist",
+            "display_name": "握拳",
+            "action_type": "mouse",
+            "action": "left_click",
+            "cooldown_ms": 300,
+            "description": "左键点击"
+        },
+        {
+            "gesture": "ok",
+            "display_name": "OK手势",
+            "action_type": "keyboard",
+            "action": "ctrl+c",
+            "cooldown_ms": 400,
+            "description": "复制"
+        },
+        {
+            "gesture": "thumbs_up",
+            "display_name": "点赞",
+            "action_type": "keyboard",
+            "action": "ctrl+v",
+            "cooldown_ms": 400,
+            "description": "粘贴"
+        },
+        {
+            "gesture": "heart",
+            "display_name": "比心",
+            "action_type": "effect",
+            "action": "star_heart",
+            "cooldown_ms": 1000,
+            "description": "星空心心特效"
+        },
+        {
+            "gesture": "swipe_left",
+            "display_name": "左划",
+            "action_type": "keyboard",
+            "action": "left",
+            "cooldown_ms": 300,
+            "description": "左箭头"
+        },
+        {
+            "gesture": "swipe_right",
+            "display_name": "右划",
+            "action_type": "keyboard",
+            "action": "right",
+            "cooldown_ms": 300,
+            "description": "右箭头"
+        },
+        {
+            "gesture": "swipe_up",
+            "display_name": "上划",
+            "action_type": "system",
+            "action": "volume_up",
+            "cooldown_ms": 200,
+            "description": "音量增加"
+        },
+        {
+            "gesture": "swipe_down",
+            "display_name": "下划",
+            "action_type": "system",
+            "action": "volume_down",
+            "cooldown_ms": 200,
+            "description": "音量减少"
+        }
+    ],
+    "dynamic_gestures": {
+        "swipe_threshold": 0.15,
+        "swipe_min_frames": 5,
+        "swipe_max_frames": 20
+    }
+}

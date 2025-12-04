@@ -1,0 +1,39 @@
+{
+    "app": {
+        "name": "GestureControlPC",
+        "version": "1.0.0",
+        "language": "zh-CN"
+    },
+    "camera": {
+        "device_id": 0,
+        "mirror": true,
+        "fps": 30
+    },
+    "display": {
+        "background_opacity": 0.23,
+        "show_skeleton": true,
+        "show_gesture_name": true,
+        "show_fps": true,
+        "blur_enabled": false
+    },
+    "recognition": {
+        "min_detection_confidence": 0.7,
+        "min_tracking_confidence": 0.5,
+        "static_gesture_hold_time_ms": 150,
+        "gesture_cooldown_ms": 700
+    },
+    "safe_zone": {
+        "enabled": true
+    },
+    "effects": {
+        "enabled": true,
+        "particle_count": 200,
+        "auto_adjust_particles": true,
+        "target_fps": 30
+    },
+    "performance": {
+        "target_fps": 30,
+        "auto_downgrade": true,
+        "low_power_mode": false
+    }
+}

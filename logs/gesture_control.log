@@ -1,0 +1,139 @@
+2025-12-04 14:01:56,564 - root - INFO - ==================================================
+2025-12-04 14:01:56,565 - root - INFO - GestureControlPC v1.0.0
+2025-12-04 14:01:56,565 - root - INFO - ==================================================
+2025-12-04 14:02:07,174 - src.application.config_manager - INFO - 配置管理器初始化，配置目录: config
+2025-12-04 14:02:07,174 - src.application.config_manager - INFO - 所有配置已加载
+2025-12-04 14:02:07,174 - src.application.orchestrator - INFO - 调度器已初始化
+2025-12-04 14:02:07,194 - src.interface.main_window - INFO - 主窗口已初始化
+2025-12-04 14:04:23,616 - src.application.config_manager - INFO - 所有配置已保存
+2025-12-04 14:04:23,642 - src.application.config_manager - INFO - 所有配置已加载
+2025-12-04 14:04:23,642 - src.interface.main_window - INFO - 配置已应用
+2025-12-04 14:04:29,968 - src.application.config_manager - INFO - 所有配置已保存
+2025-12-04 14:04:29,978 - src.application.config_manager - INFO - 所有配置已加载
+2025-12-04 14:04:29,978 - src.interface.main_window - INFO - 配置已应用
+2025-12-04 14:04:52,403 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:04:52,417 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:04:52,417 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:04:52,417 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:04:52,419 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:04:52,419 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:04:52,419 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:04:52,420 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:04:52,420 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:04:52,421 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:04:52,421 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:04:52,422 - src.interface.main_window - INFO - 系统已启动
+2025-12-04 14:04:52,521 - src.application.orchestrator - INFO - 处理线程已停止
+2025-12-04 14:04:53,431 - src.application.orchestrator - INFO - 采集线程已停止
+2025-12-04 14:04:53,785 - src.infrastructure.camera_adapter - INFO - 摄像头已停止
+2025-12-04 14:04:53,790 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 适配器已释放
+2025-12-04 14:04:53,790 - src.application.gesture_service - INFO - 手势识别服务已释放
+2025-12-04 14:04:53,793 - src.application.orchestrator - INFO - 系统已停止
+2025-12-04 14:04:53,794 - src.interface.main_window - INFO - 系统已停止
+2025-12-04 14:04:57,033 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:04:57,039 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:04:57,039 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:04:57,039 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:04:57,040 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:04:57,040 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:04:57,040 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:04:57,040 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:04:57,040 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:04:57,041 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:04:57,041 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:04:57,043 - src.interface.main_window - INFO - 系统已启动
+2025-12-04 14:06:01,000 - root - INFO - ==================================================
+2025-12-04 14:06:01,000 - root - INFO - GestureControlPC v1.0.0
+2025-12-04 14:06:01,000 - root - INFO - ==================================================
+2025-12-04 14:06:01,944 - src.application.config_manager - INFO - 配置管理器初始化，配置目录: config
+2025-12-04 14:06:01,947 - src.application.config_manager - INFO - 所有配置已加载
+2025-12-04 14:06:01,947 - src.application.orchestrator - INFO - 调度器已初始化
+2025-12-04 14:06:01,965 - src.interface.main_window - INFO - 主窗口已初始化
+2025-12-04 14:06:06,927 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:06:06,933 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:06:06,933 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:06:06,935 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:06:06,935 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:06:06,935 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:06:06,936 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:06:06,936 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:06:06,936 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:06:06,937 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:06:06,937 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:06:06,938 - src.interface.main_window - INFO - 系统已启动
+2025-12-04 14:06:16,023 - src.application.orchestrator - INFO - 处理线程已停止
+2025-12-04 14:06:16,105 - src.application.orchestrator - INFO - 采集线程已停止
+2025-12-04 14:06:16,508 - src.infrastructure.camera_adapter - INFO - 摄像头已停止
+2025-12-04 14:06:16,516 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 适配器已释放
+2025-12-04 14:06:16,517 - src.application.gesture_service - INFO - 手势识别服务已释放
+2025-12-04 14:06:16,518 - src.application.orchestrator - INFO - 系统已停止
+2025-12-04 14:06:16,518 - src.interface.main_window - INFO - 系统已停止
+2025-12-04 14:06:26,373 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:06:26,378 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:06:26,378 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:06:26,378 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:06:26,378 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:06:26,378 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:06:26,379 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:06:26,379 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:06:26,379 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:06:26,380 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:06:26,380 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:06:26,380 - src.interface.main_window - INFO - 系统已启动
+2025-12-04 14:06:27,869 - src.application.orchestrator - INFO - 处理线程已停止
+2025-12-04 14:06:27,950 - src.application.orchestrator - INFO - 采集线程已停止
+2025-12-04 14:06:28,354 - src.infrastructure.camera_adapter - INFO - 摄像头已停止
+2025-12-04 14:06:28,362 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 适配器已释放
+2025-12-04 14:06:28,362 - src.application.gesture_service - INFO - 手势识别服务已释放
+2025-12-04 14:06:28,363 - src.application.orchestrator - INFO - 系统已停止
+2025-12-04 14:06:28,363 - src.interface.main_window - INFO - 系统已停止
+2025-12-04 14:06:35,268 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:06:35,269 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:06:35,269 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:06:35,269 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:06:35,269 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:06:35,276 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:06:35,276 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:06:35,276 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:06:35,277 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:06:35,277 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:06:35,277 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:06:35,277 - src.interface.main_window - INFO - 系统已启动
+2025-12-04 14:06:43,273 - src.application.orchestrator - INFO - 处理线程已停止
+2025-12-04 14:06:43,342 - src.application.orchestrator - INFO - 采集线程已停止
+2025-12-04 14:06:43,749 - src.infrastructure.camera_adapter - INFO - 摄像头已停止
+2025-12-04 14:06:43,758 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 适配器已释放
+2025-12-04 14:06:43,758 - src.application.gesture_service - INFO - 手势识别服务已释放
+2025-12-04 14:06:43,759 - src.application.orchestrator - INFO - 系统已停止
+2025-12-04 14:06:43,760 - src.interface.main_window - INFO - 系统已停止
+2025-12-04 14:06:51,462 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:06:51,467 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:06:51,467 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:06:51,467 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:06:51,468 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:06:51,468 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:06:51,468 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:06:51,468 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:06:51,469 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:06:51,469 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:06:51,469 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:06:51,470 - src.interface.main_window - INFO - 系统已启动
+2025-12-04 14:06:52,957 - src.application.orchestrator - INFO - 处理线程已停止
+2025-12-04 14:06:53,039 - src.application.orchestrator - INFO - 采集线程已停止
+2025-12-04 14:06:53,442 - src.infrastructure.camera_adapter - INFO - 摄像头已停止
+2025-12-04 14:06:53,452 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 适配器已释放
+2025-12-04 14:06:53,452 - src.application.gesture_service - INFO - 手势识别服务已释放
+2025-12-04 14:06:53,452 - src.application.orchestrator - INFO - 系统已停止
+2025-12-04 14:06:53,453 - src.interface.main_window - INFO - 系统已停止
+2025-12-04 14:06:56,788 - src.infrastructure.camera_adapter - INFO - 摄像头已启动: 1280x720@30fps
+2025-12-04 14:06:56,792 - src.infrastructure.mediapipe_adapter - INFO - MediaPipe 手势识别适配器已初始化
+2025-12-04 14:06:56,794 - src.application.gesture_service - INFO - 手势识别服务已初始化
+2025-12-04 14:06:56,794 - src.infrastructure.system_adapter - INFO - 系统适配器已初始化，屏幕尺寸: 1920x1080
+2025-12-04 14:06:56,794 - src.infrastructure.effect_renderer - INFO - 特效渲染器已初始化
+2025-12-04 14:06:56,794 - src.application.action_service - INFO - 已加载 3 个特效配置
+2025-12-04 14:06:56,795 - src.application.action_service - INFO - 已加载 13 个手势映射
+2025-12-04 14:06:56,795 - src.application.action_service - INFO - 动作执行服务已初始化
+2025-12-04 14:06:56,795 - src.application.orchestrator - INFO - 采集线程已启动
+2025-12-04 14:06:56,796 - src.application.orchestrator - INFO - 处理线程已启动
+2025-12-04 14:06:56,796 - src.application.orchestrator - INFO - 系统已启动
+2025-12-04 14:06:56,796 - src.interface.main_window - INFO - 系统已启动

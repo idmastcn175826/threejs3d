@@ -1,0 +1,24 @@
+{
+    "camera_matrix": null,
+    "distortion_coefficients": null,
+    "mirror_horizontal": true,
+    "mirror_vertical": false,
+    "rotation_degrees": 0,
+    "brightness_adjustment": 0,
+    "contrast_adjustment": 1.0,
+    "calibration_valid": false,
+    "perspective_transform": null,
+    "exposure_adjustment": 0,
+    "roi": {
+        "enabled": false,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+    },
+    "center_offset": {
+        "x": 0,
+        "y": 0
+    },
+    "calibration_date": null
+}
